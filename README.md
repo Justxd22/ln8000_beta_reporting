@@ -22,6 +22,7 @@
  - By default it saves in /sdcard  
  - Sometimes termux is getting killed or whatever  
    Make sure you set wakelock  
+ - Usb disconnections are detected (kind of)
  - Values are estimated and approx. so don't take it srsly!
  - Some apps show const. 5v input which is wrong most of the time,
    it's 4.4-4.8 v so watts may appear diff
