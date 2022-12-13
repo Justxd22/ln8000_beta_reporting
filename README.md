@@ -25,6 +25,7 @@
  - Values are estimated and approx. so don't take it srsly!
  - Some apps show const. 5v input which is wrong most of the time,
    it's 4.4-4.8 v so watts may appear diff
+ - use `current_watt_calc.py` if you want to compare readings with other apps
    
 ## Output
 <details><summary>Sample Output</summary>
