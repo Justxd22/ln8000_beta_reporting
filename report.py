@@ -78,7 +78,7 @@ Watts       : {watts}w
 ####################################################################
     """
     printf(report)
-    if int(level) =< 100:
+    if int(level) <= 100:
        printf(f"\n#### CHARGING COMPLETE IN {timen} ####")
        exit()
 
